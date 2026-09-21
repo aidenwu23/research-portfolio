@@ -8,7 +8,7 @@ Public links below point to ePIC/EIC Indico events, individual contributions, of
 
 ## Presentations
 
-### Biweekly Forward Hadronic Calorimeter Meetings
+### (Mostly) Biweekly Forward Hadronic Calorimeters Meetings
 
 Selected simulation presentations and research updates delivered at LFHCal/Insert meetings.
 
