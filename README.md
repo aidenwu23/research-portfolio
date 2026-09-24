@@ -18,7 +18,7 @@ Contribution: https://indico.bnl.gov/event/34523/#14-simulation
 
 **Simulation Update** - LFHCal General Meeting - September 23, 2026  
 Event: https://indico.bnl.gov/event/34522/#14-simulation  
-Contribution 1: https://indico.bnl.gov/event/34522/contributions/130103/attachments/72741/124558/fhcal_reconstruction_9162026.pdf
+Contribution 1: https://indico.bnl.gov/event/34522/contributions/130103/attachments/72741/124558/fhcal_reconstruction_9162026.pdf  
 Contribution 2: https://indico.bnl.gov/event/34522/contributions/130103/attachments/72741/124559/LFHCal_muon_yields.pdf
 
 **Simulation Update** - LFHCal General Meeting - September 2, 2026  
