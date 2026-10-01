@@ -39,7 +39,7 @@ Contribution: https://indico.bnl.gov/event/33199/contributions/125610/attachment
 
 ### ePIC Technical and Integration Council
 
-**LFHCal background rates 2** - October 11, 2026  
+**LFHCal background rates 2** - October 5, 2026  
 Presented as *Background challenges update: LFHCAL* at the ePIC Technical and Integration Council.
 
 Event: https://indico.bnl.gov/event/34481/  
