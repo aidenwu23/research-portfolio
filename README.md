@@ -43,7 +43,7 @@ Contribution: https://indico.bnl.gov/event/33199/contributions/125610/attachment
 Presented as *Background challenges update: LFHCAL* at the ePIC Technical and Integration Council.
 
 Event: https://indico.bnl.gov/event/34481/  
-Contribution: https://indico.bnl.gov/event/34481/#9-backgroung-challenge-update
+Contribution: https://indico.bnl.gov/event/34481/contributions/130456/attachments/72884/124746/lfhcal_bkg_update_1052026.pdf
 
 **Rates at the LFHCal** - July 6, 2026  
 Presented as *Background challenges: LFHCAL* at the ePIC Technical and Integration Council.
