@@ -140,6 +140,11 @@ https://github.com/aidenwu23/centauro
 ## Additional Collaboration Contributions
 
 **Background-event reuse in simulated background samples**  
-Issue identified during LFHCal background-rate studies and documented in the official `eic/HEPMC_Merger` repository.
+Issue identified during LFHCal background-rate studies.
 
 https://github.com/eic/HEPMC_Merger/issues/24
+
+**Fix: ZDC extend cluster time window (e.g. for background-merged events)**  
+Reviewed and approved EICrecon fix removing restrictive ZDC clustering time cuts that rejected valid hits in background-merged events; evaluated compatibility with updated Insert calorimeter geometry.  
+
+https://github.com/eic/EICrecon/pull/2980
