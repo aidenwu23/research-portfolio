@@ -13,12 +13,10 @@ Public links below point to ePIC/EIC Indico events, individual contributions, of
 Simulation presentations and research updates delivered at LFHCal/Insert meetings.
 
 **Simulation Update** - LFHCal General Meeting - October 21, 2026  
-Event: https://indico.bnl.gov/event/34990/#14-simulation  
-Contribution: https://indico.bnl.gov/event/34990/#14-simulation
+Event & Contribution: https://indico.bnl.gov/event/34990/#14-simulation  
 
 **Simulation Update** - LFHCal General Meeting - October 7, 2026  
-Event: https://indico.bnl.gov/event/34523/#14-simulation  
-Contribution: https://indico.bnl.gov/event/34523/#14-simulation
+Event & Contribution: https://indico.bnl.gov/event/34523/#14-simulation  
 
 **FHCal reconstruction and LFHCal muon yields** - LFHCal General Meeting - September 23, 2026  
 Event: https://indico.bnl.gov/event/34522/#14-simulation  
@@ -26,8 +24,7 @@ Contribution 1: https://indico.bnl.gov/event/34522/contributions/130103/attachme
 Contribution 2: https://indico.bnl.gov/event/34522/contributions/130103/attachments/72741/124559/LFHCal_muon_yields.pdf
 
 **Simulation Update** - LFHCal General Meeting - September 2, 2026  
-Event: https://indico.bnl.gov/event/34188/#14-simulation  
-Contribution: https://indico.bnl.gov/event/34188/#14-simulation
+Event & Contribution: https://indico.bnl.gov/event/34188/#14-simulation  
 
 **Insert Rates** - LFHCal General Meeting - August 12, 2026  
 Event: https://indico.bnl.gov/event/33832/#14-simulation  
