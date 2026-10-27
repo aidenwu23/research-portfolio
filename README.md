@@ -112,7 +112,7 @@ https://github.com/eic/detector_benchmarks/pull/343
 **LFHCal SiPM/CALOROC digitization** - work in progress  
 Development in the official `eic/EICrecon` repository.
 
-https://github.com/eic/EICrecon/tree/pr/lfhcal-sipm-caloroc-digitization
+https://github.com/eic/EICrecon/pull/3054  
 
 ---
 
