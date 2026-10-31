@@ -104,7 +104,7 @@ Added trigger scintillators to the LFHCal test-beam geometry.
 
 https://github.com/eic/epic/pull/1164
 
-**Fix runaway theta-resolution fits in `insert_neutron`** - `eic/detector_benchmarks` PR #343  
+**Fix runaway theta-resolution fits in `insert_neutron`** - `eic/detector_benchmarks` PR #343 - merged  
 Updated Insert neutron angular-resolution fitting using iterative Gaussian fits.
 
 https://github.com/eic/detector_benchmarks/pull/343
