@@ -114,6 +114,11 @@ Development in the official `eic/EICrecon` repository.
 
 https://github.com/eic/EICrecon/pull/3054  
 
+**Multi-readout clustering algorithm** - work in progress   
+Development in the official `eic/EICrecon` repository.  
+
+https://github.com/eic/EICrecon/tree/pr/combine-lfhcal-insert-clustering
+
 ---
 
 ## Research Code
