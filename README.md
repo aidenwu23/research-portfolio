@@ -112,7 +112,7 @@ https://github.com/eic/detector_benchmarks/pull/343
 **LFHCal SiPM/CALOROC digitization** - work in progress  
 Development in the official `eic/EICrecon` repository.
 
-https://github.com/eic/EICrecon/pull/3054  
+https://github.com/eic/EICrecon/stack/3107  
 
 **Multi-readout clustering algorithm** - work in progress   
 Development in the official `eic/EICrecon` repository.  
