@@ -12,6 +12,10 @@ Public links below point to ePIC/EIC Indico events, individual contributions, of
 
 Simulation presentations and research updates delivered at LFHCal/Insert meetings.
 
+**Simulation Update** - LFHCal General Meeting - November 18, 2026  
+Event: https://indico.bnl.gov/event/35316/#14-simulation  
+Co-authored contribution: https://indico.bnl.gov/event/35316/contributions/132859/attachments/74122/126635/Steinberg_ePICLFHCAL20261118.pdf
+
 **Simulation Update** - LFHCal General Meeting - October 21, 2026  
 Event & Contribution: https://indico.bnl.gov/event/34990/#14-simulation  
 
