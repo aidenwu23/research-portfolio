@@ -19,64 +19,64 @@ title: Aiden Wu | Research Portfolio
 Simulation presentations and research updates delivered at LFHCal/Insert meetings.
 
 **Simulation Update** - LFHCal General Meeting - November 18, 2026  
-Event: https://indico.bnl.gov/event/35316/#14-simulation  
-Co-authored contribution: https://indico.bnl.gov/event/35316/contributions/132859/attachments/74122/126635/Steinberg_ePICLFHCAL20261118.pdf
+Event: <https://indico.bnl.gov/event/35316/#14-simulation>  
+Co-authored contribution: <https://indico.bnl.gov/event/35316/contributions/132859/attachments/74122/126635/Steinberg_ePICLFHCAL20261118.pdf>
 
 **Simulation Update** - LFHCal General Meeting - October 21, 2026  
-Event & Contribution: https://indico.bnl.gov/event/34990/#14-simulation  
+Event & Contribution: <https://indico.bnl.gov/event/34990/#14-simulation>  
 
 **Simulation Update** - LFHCal General Meeting - October 7, 2026  
-Event & Contribution: https://indico.bnl.gov/event/34523/#14-simulation  
+Event & Contribution: <https://indico.bnl.gov/event/34523/#14-simulation>  
 
 **FHCal reconstruction and LFHCal muon yields** - LFHCal General Meeting - September 23, 2026  
-Event: https://indico.bnl.gov/event/34522/#14-simulation  
-Contribution 1: https://indico.bnl.gov/event/34522/contributions/130103/attachments/72741/124558/fhcal_reconstruction_9162026.pdf  
-Contribution 2: https://indico.bnl.gov/event/34522/contributions/130103/attachments/72741/124559/LFHCal_muon_yields.pdf
+Event: <https://indico.bnl.gov/event/34522/#14-simulation>  
+Contribution 1: <https://indico.bnl.gov/event/34522/contributions/130103/attachments/72741/124558/fhcal_reconstruction_9162026.pdf>  
+Contribution 2: <https://indico.bnl.gov/event/34522/contributions/130103/attachments/72741/124559/LFHCal_muon_yields.pdf>
 
 **Simulation Update** - LFHCal General Meeting - September 2, 2026  
-Event & Contribution: https://indico.bnl.gov/event/34188/#14-simulation  
+Event & Contribution: <https://indico.bnl.gov/event/34188/#14-simulation>  
 
 **Insert Rates** - LFHCal General Meeting - August 12, 2026  
-Event: https://indico.bnl.gov/event/33832/#14-simulation  
-Contribution: https://indico.bnl.gov/event/33832/contributions/127815/attachments/72030/123342/insert_updates_20260812.pdf
+Event: <https://indico.bnl.gov/event/33832/#14-simulation>  
+Contribution: <https://indico.bnl.gov/event/33832/contributions/127815/attachments/72030/123342/insert_updates_20260812.pdf>
 
 **LFHCal response** - LFHCal General Meeting - July 29, 2026  
-Event: https://indico.bnl.gov/event/33601/#14-simulation  
-Contribution: https://indico.bnl.gov/event/33601/contributions/127190/attachments/71725/122937/lfhcal_n_insert.pdf
+Event: <https://indico.bnl.gov/event/33601/#14-simulation>  
+Contribution: <https://indico.bnl.gov/event/33601/contributions/127190/attachments/71725/122937/lfhcal_n_insert.pdf>
 
 **LFHCal rates** - Joint LFHCal & Insert Meeting - June 24, 2026  
-Event: https://indico.bnl.gov/event/33199/#14-simulation  
-Contribution: https://indico.bnl.gov/event/33199/contributions/125610/attachments/70980/121644/LFHCAL%20rates.pdf
+Event: <https://indico.bnl.gov/event/33199/#14-simulation>  
+Contribution: <https://indico.bnl.gov/event/33199/contributions/125610/attachments/70980/121644/LFHCAL%20rates.pdf>
 
 ### ePIC Technical and Integration Council
 
 **LFHCal background rates 2** - October 5, 2026  
 Presented as *Background challenges update: LFHCAL* at the ePIC Technical and Integration Council.
 
-Event: https://indico.bnl.gov/event/34481/  
-Contribution: https://indico.bnl.gov/event/34481/contributions/130456/attachments/72884/124746/lfhcal_bkg_update_1052026.pdf
+Event: <https://indico.bnl.gov/event/34481/>  
+Contribution: <https://indico.bnl.gov/event/34481/contributions/130456/attachments/72884/124746/lfhcal_bkg_update_1052026.pdf>
 
 **Rates at the LFHCal** - July 6, 2026  
 Presented as *Background challenges: LFHCAL* at the ePIC Technical and Integration Council.
 
-Event: https://indico.bnl.gov/event/33375/  
-Contribution: https://indico.bnl.gov/event/33375/contributions/126347/attachments/71152/121912/lfhcal_rates.pdf
+Event: <https://indico.bnl.gov/event/33375/>  
+Contribution: <https://indico.bnl.gov/event/33375/contributions/126347/attachments/71152/121912/lfhcal_rates.pdf>
 
 ### Backward HCal DSC
 
 **Neutron efficiency optimization for the nHCal** - June 30, 2026  
 Presented as *Machine Learning for nHCal design* at the Backward HCal DSC weekly meeting.
 
-Event: https://indico.bnl.gov/event/33380/  
-Contribution: https://indico.bnl.gov/event/33380/contributions/126359/attachments/71043/121733/nHCal%20optimization%20with%20ML.pdf
+Event: <https://indico.bnl.gov/event/33380/>  
+Contribution: <https://indico.bnl.gov/event/33380/contributions/126359/attachments/71043/121733/nHCal%20optimization%20with%20ML.pdf>
 
 ### LFHCal Testbeam Analysis Workfest at Yale
 
 **Electron/Pion event tagging** - August 17-21, 2026  
 Simulation study for electron/pion discrimination in the 2026 LFHCal test-beam configuration.
 
-Event: https://indico.bnl.gov/event/33760/  
-Contribution: https://indico.bnl.gov/event/33760/contributions/128665/attachments/72222/123656/8192026_event_tagging.pdf
+Event: <https://indico.bnl.gov/event/33760/>  
+Contribution: <https://indico.bnl.gov/event/33760/contributions/128665/attachments/72222/123656/8192026_event_tagging.pdf>
 
 ---
 
@@ -97,37 +97,37 @@ Contribution: https://indico.bnl.gov/event/33760/contributions/128665/attachment
 **Insert/LFHCAL geometry update** - `eic/epic` PR #1153 - merged  
 Updated Insert geometry based on recent mechanical redesigns and updated LFHCal readout-layer grouping.
 
-https://github.com/eic/epic/pull/1153
+<https://github.com/eic/epic/pull/1153>
 
 **Support updated Insert geometry** - `eic/EICrecon` PR #2890 - merged  
 Updated Insert reconstruction to support the revised detector geometry.
 
-https://github.com/eic/EICrecon/pull/2890
+<https://github.com/eic/EICrecon/pull/2890>
 
 **Updated LFHCal test-beam geometry** - `eic/epic` PR #1160 - merged  
 Updated the 2026 LFHCal test-beam geometry for electron/pion simulation studies.
 
-https://github.com/eic/epic/pull/1160
+<https://github.com/eic/epic/pull/1160>
 
 **LFHCal test-beam trigger scintillator geometry** - `eic/epic` PR #1164 - merged  
 Added trigger scintillators to the LFHCal test-beam geometry.
 
-https://github.com/eic/epic/pull/1164
+<https://github.com/eic/epic/pull/1164>
 
 **Fix runaway theta-resolution fits in `insert_neutron`** - `eic/detector_benchmarks` PR #343 - merged  
 Updated Insert neutron angular-resolution fitting using iterative Gaussian fits.
 
-https://github.com/eic/detector_benchmarks/pull/343
+<https://github.com/eic/detector_benchmarks/pull/343>
 
 **LFHCal SiPM/CALOROC digitization** - 3/6 merged.  
 Development in the official `eic/EICrecon` repository.
 
-https://github.com/eic/EICrecon/stack/3107  
+<https://github.com/eic/EICrecon/stack/3107>  
 
 **Multi-readout clustering algorithm** - work in progress   
 Development in the official `eic/EICrecon` repository.  
 
-https://github.com/eic/EICrecon/tree/pr/combine-lfhcal-insert-clustering
+<https://github.com/eic/EICrecon/tree/pr/combine-lfhcal-insert-clustering>
 
 ---
 
@@ -137,19 +137,19 @@ https://github.com/eic/EICrecon/tree/pr/combine-lfhcal-insert-clustering
 
 HCAL geometry optimization with DD4hep/DDsim and a LightGBM surrogate model.
 
-https://github.com/aidenwu23/hcal_optimizer
+<https://github.com/aidenwu23/hcal_optimizer>
 
 ### Rate Analysis for the Forward HCals
 
 Analysis software for LFHCal and forward-Insert occupancy, background composition, channel/chip rates, and readout-rate studies.
 
-https://github.com/aidenwu23/fhcal-rates
+<https://github.com/aidenwu23/fhcal-rates>
 
 ### Centauro
 
 Quantitative comparison of lab-frame anti-kT and Breit-frame Centauro jet definitions for ePIC DIS TMD measurements.
 
-https://github.com/aidenwu23/centauro
+<https://github.com/aidenwu23/centauro>
 
 ---
 
@@ -158,9 +158,9 @@ https://github.com/aidenwu23/centauro
 **Background-event reuse in simulated background samples**  
 Issue identified during LFHCal background-rate studies.
 
-https://github.com/eic/HEPMC_Merger/issues/24
+<https://github.com/eic/HEPMC_Merger/issues/24>
 
 **Fix: ZDC extend cluster time window (e.g. for background-merged events)**  
 Reviewed and approved EICrecon fix removing restrictive ZDC clustering time cuts that rejected valid hits in background-merged events; evaluated compatibility with updated Insert calorimeter geometry.  
 
-https://github.com/eic/EICrecon/pull/2980
+<https://github.com/eic/EICrecon/pull/2980>
