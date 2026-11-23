@@ -66,3 +66,16 @@ body {
     padding: 1.5rem;
   }
 }
+
+.main-content p {
+  text-wrap: balance;
+}
+
+.main-content h2,
+.main-content h3 {
+  text-wrap: balance;
+}
+
+.main-content a {
+  overflow-wrap: anywhere;
+}
