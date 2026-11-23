@@ -3,12 +3,17 @@ layout: default
 title: Aiden Wu | Research Portfolio
 ---
 
+
+<div align="center">
+
 # Aiden Wu
 ## Research Portfolio
 
 A curated synthesis of my research work for undergraduate applications.
 
 Public links below point to ePIC/EIC Indico events, individual contributions, official GitHub repositories, and associated research code.
+
+</div>
 
 ---
 
