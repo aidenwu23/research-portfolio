@@ -6,7 +6,6 @@ title: Aiden Wu | Research Portfolio
 
 <div align="center">
 
-# Aiden Wu
 ## Research Portfolio
 
 A curated synthesis of my research work for undergraduate applications.
