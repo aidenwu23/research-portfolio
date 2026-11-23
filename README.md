@@ -1,5 +1,5 @@
 # Research Portfolio
-
+### [View My Research Portfolio Website](https://aidenwu23.github.io/research-portfolio/)  
 A curated synthesis of my research work for undergraduate applications.
 
 Public links below point to ePIC/EIC Indico events, individual contributions, official GitHub repositories, and associated research code.
