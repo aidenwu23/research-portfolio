@@ -6,6 +6,45 @@ Public links below point to ePIC/EIC Indico events, individual contributions, of
 
 ---
 
+## EIC/ePIC Software Contributions
+
+**Insert/LFHCAL geometry update** - `eic/epic` PR #1153 - merged  
+Updated Insert geometry based on recent mechanical redesigns and updated LFHCal readout-layer grouping.
+
+https://github.com/eic/epic/pull/1153
+
+**Support updated Insert geometry** - `eic/EICrecon` PR #2890 - merged  
+Updated Insert reconstruction to support the revised detector geometry.
+
+https://github.com/eic/EICrecon/pull/2890
+
+**Updated LFHCal test-beam geometry** - `eic/epic` PR #1160 - merged  
+Updated the 2026 LFHCal test-beam geometry for electron/pion simulation studies.
+
+https://github.com/eic/epic/pull/1160
+
+**LFHCal test-beam trigger scintillator geometry** - `eic/epic` PR #1164 - merged  
+Added trigger scintillators to the LFHCal test-beam geometry.
+
+https://github.com/eic/epic/pull/1164
+
+**Fix runaway theta-resolution fits in `insert_neutron`** - `eic/detector_benchmarks` PR #343 - merged  
+Updated Insert neutron angular-resolution fitting using iterative Gaussian fits.
+
+https://github.com/eic/detector_benchmarks/pull/343
+
+**LFHCal SiPM/CALOROC digitization** - 3/6 merged.  
+Development in the official `eic/EICrecon` repository.
+
+https://github.com/eic/EICrecon/stack/3107  
+
+**Multi-readout clustering algorithm** - work in progress   
+Development in the official `eic/EICrecon` repository.  
+
+https://github.com/eic/EICrecon/tree/pr/combine-lfhcal-insert-clustering
+
+---
+
 ## Presentations
 
 ### (Mostly) Biweekly Forward Hadronic Calorimeters Meetings
@@ -83,45 +122,6 @@ Contribution: https://indico.bnl.gov/event/33760/contributions/128665/attachment
 **Note Number:** epic-TN-TC_2026-005
 
 [View Technical Note (PDF)](epic-TN-TC_2026-005.pdf)
-
----
-
-## EIC/ePIC Software Contributions
-
-**Insert/LFHCAL geometry update** - `eic/epic` PR #1153 - merged  
-Updated Insert geometry based on recent mechanical redesigns and updated LFHCal readout-layer grouping.
-
-https://github.com/eic/epic/pull/1153
-
-**Support updated Insert geometry** - `eic/EICrecon` PR #2890 - merged  
-Updated Insert reconstruction to support the revised detector geometry.
-
-https://github.com/eic/EICrecon/pull/2890
-
-**Updated LFHCal test-beam geometry** - `eic/epic` PR #1160 - merged  
-Updated the 2026 LFHCal test-beam geometry for electron/pion simulation studies.
-
-https://github.com/eic/epic/pull/1160
-
-**LFHCal test-beam trigger scintillator geometry** - `eic/epic` PR #1164 - merged  
-Added trigger scintillators to the LFHCal test-beam geometry.
-
-https://github.com/eic/epic/pull/1164
-
-**Fix runaway theta-resolution fits in `insert_neutron`** - `eic/detector_benchmarks` PR #343 - merged  
-Updated Insert neutron angular-resolution fitting using iterative Gaussian fits.
-
-https://github.com/eic/detector_benchmarks/pull/343
-
-**LFHCal SiPM/CALOROC digitization** - 3/6 merged.  
-Development in the official `eic/EICrecon` repository.
-
-https://github.com/eic/EICrecon/stack/3107  
-
-**Multi-readout clustering algorithm** - work in progress   
-Development in the official `eic/EICrecon` repository.  
-
-https://github.com/eic/EICrecon/tree/pr/combine-lfhcal-insert-clustering
 
 ---
 
