@@ -38,7 +38,7 @@ Updated Insert neutron angular-resolution fitting using iterative Gaussian fits.
 
 <https://github.com/eic/detector_benchmarks/pull/343>
 
-**Digitization upgrades and reconstruction generalization for single-ended calorimeters** - 3/6 merged.  
+**Digitization upgrades and reconstruction generalization for single-ended calorimeters** - 4/6 merged.  
 Development in the official `eic/EICrecon` repository.
 
 <https://github.com/eic/EICrecon/stack/3107>  
