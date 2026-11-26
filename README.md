@@ -8,6 +8,16 @@ Public links below point to ePIC/EIC Indico events, individual contributions, of
 
 ## EIC/ePIC Software Contributions
 
+**Digitization upgrades and reconstruction generalization for single-ended calorimeters** - 4/6 merged.  
+Development in the official `eic/EICrecon` repository.
+
+https://github.com/eic/EICrecon/stack/3107  
+
+**Fix runaway theta-resolution fits in `insert_neutron`** - `eic/detector_benchmarks` PR #343 - merged  
+Updated Insert neutron angular-resolution fitting using iterative Gaussian fits.
+
+https://github.com/eic/detector_benchmarks/pull/343
+
 **Insert/LFHCAL geometry update** - `eic/epic` PR #1153 - merged  
 Updated Insert geometry based on recent mechanical redesigns and updated LFHCal readout-layer grouping.
 
@@ -27,16 +37,6 @@ https://github.com/eic/epic/pull/1160
 Added trigger scintillators to the LFHCal test-beam geometry.
 
 https://github.com/eic/epic/pull/1164
-
-**Fix runaway theta-resolution fits in `insert_neutron`** - `eic/detector_benchmarks` PR #343 - merged  
-Updated Insert neutron angular-resolution fitting using iterative Gaussian fits.
-
-https://github.com/eic/detector_benchmarks/pull/343
-
-**Digitization upgrades and reconstruction generalization for single-ended calorimeters** - 4/6 merged.  
-Development in the official `eic/EICrecon` repository.
-
-https://github.com/eic/EICrecon/stack/3107  
 
 **Multi-readout clustering algorithm** - work in progress   
 Development in the official `eic/EICrecon` repository.  
